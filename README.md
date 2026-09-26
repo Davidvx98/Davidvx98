@@ -1,14 +1,21 @@
-<h1 align="center">David Poza Salgado</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:4c1d95,100:0891b2&text=David%20Poza%20Salgado&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="David Poza Salgado · Full-Stack Developer" width="100%"/>
+</p>
 
 <p align="center">
-  <strong>Full-Stack Developer · Astro / TypeScript / Node.js · Cloudflare · Rendimiento y seguridad web</strong><br/>
+  <a href="https://github.com/Davidvx98">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Astro+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Cloudflare;Producto+web+de+punta+a+punta;Rendimiento%2C+seguridad+y+accesibilidad;Del+dise%C3%B1o+de+la+arquitectura+al+despliegue" alt="Astro · TypeScript · Node.js · Cloudflare"/>
+  </a>
+</p>
+
+<p align="center">
   Diseño, construyo y opero productos web en producción: desde la arquitectura y la base de datos hasta el despliegue, la observabilidad y el último píxel.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-poza-salgado/"><img src="https://img.shields.io/badge/LinkedIn-david--poza--salgado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:srpouza@gmail.com"><img src="https://img.shields.io/badge/Email-srpouza%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Idiomas-ES%20%C2%B7%20EN-555?style=flat-square" alt="Idiomas"/>
+  <a href="https://www.linkedin.com/in/david-poza-salgado/"><img src="https://img.shields.io/badge/LinkedIn-david--poza--salgado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:srpouza@gmail.com"><img src="https://img.shields.io/badge/Email-srpouza%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Idiomas-ES%20%C2%B7%20EN-4c1d95?style=for-the-badge" alt="Idiomas"/>
 </p>
 
 ---
@@ -29,9 +36,7 @@
 
 | Proyecto | Qué es | Stack |
 | :-- | :-- | :-- |
-| **Plataforma de streaming de anime** · *privado* | Web SSR en producción con catálogo de miles de series, reproductor multi-fuente, manga, blog, comunidad, planes de suscripción y bots de Discord/Telegram. Pipelines de ingesta y deduplicación de datos, monetización y panel de administración. | Astro 6 · TypeScript · Node · SQLite · Redis · Cloudflare R2/WAF/Tunnel · PM2 |
 | **ReportIA** · *privado* | App de escritorio *local-first* para pymes: convierte Excel, CSV, tickets y facturas en métricas e informes (PDF/XLSX/DOCX) que redacta una IA local. Licencias Ed25519 offline, i18n y accesibilidad WCAG 1.4.12. | Tauri · Rust · Python · DuckDB · SQLite · React · Playwright |
-| **[AniWord](https://aniword.net)** · *privado* | Juego tipo Wordle de anime con cuatro modos, ranking y ~4.300 títulos indexados. | Astro 6 SSR · Cloudflare Workers · D1 · Tailwind v4 · Vitest |
 | **[The Choice Protocol](https://github.com/Davidvx98/The-Choice-Protocol)** | Experiencia narrativa con IA que recomienda qué ver con escenas cinematográficas. Presentado a la Hackatón CubePath 2026. | Astro · TypeScript · Gemini + Groq · GSAP |
 | **App de recompensas** · *privado* | App móvil y web con backend propio y monorepo pnpm. | Flutter/Dart · Node · Astro |
 | **LoL Patch** · *privado* | Notas de parche de League of Legends con scraping automático semanal (GitHub Actions) y datos de Data Dragon. | Astro · Cloudflare Pages · Cheerio |
@@ -92,4 +97,18 @@
 - Despliegues reversibles: build en *staging*, cambio atómico y sin tocar lo que funciona.
 - Documento las decisiones y los incidentes para que el siguiente no tenga que redescubrirlos.
 
+### Actividad
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidvx98/Davidvx98/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidvx98/Davidvx98/output/github-snake.svg"/>
+    <img alt="Animación de la gráfica de contribuciones" src="https://raw.githubusercontent.com/Davidvx98/Davidvx98/output/github-snake.svg"/>
+  </picture>
+</p>
+
 <p align="center"><sub>Abierto a proyectos freelance, puestos full-time y colaboraciones.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0891b2,50:4c1d95,100:0f172a&section=footer" alt="" width="100%"/>
+</p>
