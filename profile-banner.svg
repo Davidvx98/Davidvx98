@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Cabecera de perfil en azul noche y turquesa</title>
+  <desc id="desc">Composición geométrica abstracta con las iniciales DP.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="0.55" stop-color="#172b42"/>
+      <stop offset="1" stop-color="#123c46"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="32%" r="72%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#c6e9f1" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#base)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <path d="M690 300 925 65a44 44 0 0 1 62 0l235 235" fill="none" stroke="#67e8f9" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M805 300 1005 100a34 34 0 0 1 48 0l200 200" fill="none" stroke="#67e8f9" stroke-opacity=".24" stroke-width="2"/>
+  <circle cx="1028" cy="149" r="93" fill="none" stroke="#99f6e4" stroke-opacity=".34" stroke-width="1.5"/>
+  <circle cx="1028" cy="149" r="70" fill="none" stroke="#99f6e4" stroke-opacity=".18" stroke-width="1"/>
+  <circle cx="1028" cy="149" r="5" fill="#a5f3fc"/>
+  <text x="88" y="194" fill="#e2e8f0" fill-opacity=".92" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-8">DP</text>
+  <path d="M90 226h86" stroke="#5eead4" stroke-width="4" stroke-linecap="round"/>
+</svg>
