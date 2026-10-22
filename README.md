@@ -21,16 +21,68 @@
 | **Operación** | Automatización, observabilidad y despliegues reproducibles. |
 | **IA aplicada** | Integración de modelos con datos y validación de resultados. |
 
-### 🚀 Proyecto destacado
+### 🚀 Panel de proyectos
 
-#### [ReportIA](https://reportia.net/producto)
+Una selección de productos, experiencias y herramientas que he desarrollado. Abre cada tarjeta para conocer el proyecto.
 
-Aplicación de escritorio para pymes y profesionales. Convierte hojas de cálculo, facturas y tickets en informes claros con ayuda de IA local.
-
-- **Importación:** Excel, CSV y documentos del negocio.
-- **Análisis:** métricas y comparativas calculadas de forma determinista.
-- **Informes:** borradores con evidencias y exportación a PDF, XLSX, CSV y DOCX.
-- **Estado:** en beta.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 ReportIA</h3>
+<p><img alt="ESCRITORIO · IA LOCAL" src="https://img.shields.io/badge/ESCRITORIO%20%C2%B7%20IA%20LOCAL-0F766E?style=flat-square" /></p>
+<p>Aplicación para pymes que transforma datos del negocio en métricas e informes con IA local. En beta.</p>
+<p><a href="https://reportia.net/producto"><strong>reportia.net/producto ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎬 The Choice Protocol</h3>
+<p><img alt="EXPERIENCIA WEB · IA" src="https://img.shields.io/badge/EXPERIENCIA%20WEB%20%C2%B7%20IA-7C3AED?style=flat-square" /></p>
+<p>Experiencia narrativa que recomienda anime y películas mediante decisiones y escenas cinematográficas.</p>
+<p><a href="https://the-choice-protocol.srpouza.workers.dev/"><strong>Abrir demo interactiva ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎡 Ruleta y Sorteos</h3>
+<p><img alt="HERRAMIENTA WEB" src="https://img.shields.io/badge/HERRAMIENTA%20WEB-C2410C?style=flat-square" /></p>
+<p>Ruletas y sorteos online con selección aleatoria y resultados verificables, directamente en el navegador.</p>
+<p><a href="https://ruletasorteos-es.pages.dev/"><strong>Abrir Ruleta y Sorteos ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🛡️ Defiende la Base</h3>
+<p><img alt="VIDEOJUEGO · JAVA" src="https://img.shields.io/badge/VIDEOJUEGO%20%C2%B7%20JAVA-1D4ED8?style=flat-square" /></p>
+<p>Tower defense 2D con oleadas de enemigos, torres y mejoras. Versión jugable en el navegador.</p>
+<p><a href="https://defiende-la-base.pages.dev/"><strong>Jugar en el navegador ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💿 Iberia Custom DVDs</h3>
+<p><img alt="WEB · PRODUCTO" src="https://img.shields.io/badge/WEB%20%C2%B7%20PRODUCTO-BE123C?style=flat-square" /></p>
+<p>Web de presentación y acceso a un lanzador de discos para Windows.</p>
+<p><a href="https://iberiacustomdvds.es/"><strong>iberiacustomdvds.es ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🌸 AnimeGratis</h3>
+<p><img alt="PLATAFORMA WEB" src="https://img.shields.io/badge/PLATAFORMA%20WEB-9333EA?style=flat-square" /></p>
+<p>Plataforma de anime con catálogo, fichas y navegación por contenidos.</p>
+<p><a href="https://animegratis.net/"><strong>animegratis.net ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📚 Gothic New Balance Wiki</h3>
+<p><img alt="CONTENIDO · WIKI" src="https://img.shields.io/badge/CONTENIDO%20%C2%B7%20WIKI-854D0E?style=flat-square" /></p>
+<p>Wiki en español de Gothic II: New Balance, con información sobre gremios, misiones y configuración.</p>
+<p><a href="https://github.com/Davidvx98/gothic-nb-wiki"><strong>Ver proyecto público ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧩 LuckyCodex · Demo SaaS</h3>
+<p><img alt="DEMO · SAAS" src="https://img.shields.io/badge/DEMO%20%C2%B7%20SAAS-0369A1?style=flat-square" /></p>
+<p>Demostración de una plataforma de suscripciones con interfaz web y servicios de backend.</p>
+<p><a href="https://github.com/Davidvx98/demo-luckycodex"><strong>Ver proyecto público ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
 ### 🧰 Tecnologías
 
