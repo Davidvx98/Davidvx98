@@ -1,32 +1,21 @@
-<p align="center">
-  Desarrollo productos digitales de principio a fin, desde la arquitectura hasta la operación.
-</p>
+# David Poza Salgado
 
-<p align="center">
-  Español · Inglés
-</p>
+Aplicaciones web y de escritorio: desarrollo, calidad y operación de producto.
 
 ---
 
-### En qué me enfoco
+### Enfoque
 
-- **Producto:** aplicaciones web completas para necesidades reales.
-- **Calidad:** rendimiento, seguridad, SEO y accesibilidad.
-- **Operación:** automatización, observabilidad y despliegues reversibles.
-- **IA aplicada:** integración de modelos con validación de resultados.
+Producto digital · Calidad y accesibilidad · Automatización y operaciones · IA aplicada
 
-### Proyecto destacado
+### Producto
 
-**[ReportIA](https://reportia.net/producto)** — aplicación de escritorio para pequeñas empresas que convierte Excel, CSV, facturas y tickets en informes con IA local. **En beta.**
+[ReportIA](https://reportia.net/producto) — aplicación de escritorio para pymes que convierte documentos y datos del negocio en informes con IA local. **En beta.**
 
 ### Tecnologías
 
-- **Frontend:** TypeScript, Astro, React, Tailwind CSS, GSAP.
-- **Backend y datos:** Node.js, Express, SQLite, PostgreSQL, DuckDB, Redis.
-- **Lenguajes:** JavaScript, Python, Rust, Java, Dart, SQL, Bash.
-- **Plataformas y DevOps:** Tauri, Flutter, Cloudflare, Linux, Docker, PM2, GitHub Actions, pnpm.
-- **Pruebas:** Playwright, Vitest, ESLint, axe.
-
----
-
-Abierto a proyectos y colaboraciones.
+- **Frontend:** TypeScript, React, Astro, Tailwind CSS.
+- **Backend:** Python, Node.js, Express, Rust.
+- **Datos:** SQLite, PostgreSQL, DuckDB.
+- **Plataforma:** Tauri, Cloudflare, Docker, Linux, GitHub Actions.
+- **Calidad:** Playwright, Vitest, ESLint, axe.
