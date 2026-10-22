@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="Cabecera geométrica en azul noche y turquesa" width="100%" />
   <h1>David Poza Salgado</h1>
   <p><strong>Desarrollador full stack · Producto digital · IA aplicada</strong></p>
   <p>Diseño, desarrollo y llevo productos digitales desde la idea hasta producción, con atención a la experiencia, la calidad y la operación.</p>
