@@ -62,19 +62,13 @@ Una selección de productos, experiencias y herramientas que he desarrollado. Ab
 <p><a href="https://iberiacustomdvds.es/"><strong>iberiacustomdvds.es ↗</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>🌸 AnimeGratis</h3>
-<p><img alt="PLATAFORMA WEB" src="https://img.shields.io/badge/PLATAFORMA%20WEB-9333EA?style=flat-square" /></p>
-<p>Plataforma de anime con catálogo, fichas y navegación por contenidos.</p>
-<p><a href="https://animegratis.net/"><strong>animegratis.net ↗</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <h3>📚 Gothic New Balance Wiki</h3>
 <p><img alt="CONTENIDO · WIKI" src="https://img.shields.io/badge/CONTENIDO%20%C2%B7%20WIKI-854D0E?style=flat-square" /></p>
 <p>Wiki en español de Gothic II: New Balance, con información sobre gremios, misiones y configuración.</p>
 <p><a href="https://github.com/Davidvx98/gothic-nb-wiki"><strong>Ver proyecto público ↗</strong></a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🧩 LuckyCodex · Demo SaaS</h3>
 <p><img alt="DEMO · SAAS" src="https://img.shields.io/badge/DEMO%20%C2%B7%20SAAS-0369A1?style=flat-square" /></p>
